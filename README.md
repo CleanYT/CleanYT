@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CleanYT
+- 👋 Hi, I’m @Emily
 - 👀 I’m interested in ... LUA CODING
 - 🌱 I’m currently learning ...  WEBSITE CODING
 - 💞️ I’m looking to collaborate on ... A GAME
